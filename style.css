@@ -1,0 +1,74 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    height: 1600px;
+    background-image: url(https://img.freepik.com/premium-photo/poker-play-cards_157927-3058.jpg);
+  }
+  #butt1 {
+    color: orange;
+    text-shadow: 2px 2px 5px orange;
+    margin-top: 50px;
+    height: 30px;
+    width: 200px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    background-image: url(https://images.unsplash.com/photo-1547499417-29204c97a299?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  }
+  #butt2 {
+    color: orange;
+    text-shadow: 2px 2px 5px orange;
+    margin-top: 50px;
+    height: 30px;
+    width: 200px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    background-image: url(https://images.unsplash.com/photo-1547499417-29204c97a299?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  }
+  #butt3 {
+    color: orange;
+    text-shadow: 2px 2px 5px orange;
+    margin-top: 50px;
+    height: 30px;
+    width: 200px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    background-image: url(https://images.unsplash.com/photo-1547499417-29204c97a299?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  }
+  #card {
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    border-radius: 25px;
+    flex-direction: column;
+    box-shadow: 10px 10px 5px 5px #000000;
+    background-image: url(https://images.unsplash.com/photo-1601662528567-526cd06f6582?q=80&w=3715&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  }
+  #row1 {
+    height: 150px;
+  }
+  #suitsUp {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 100px;
+    color: red;
+    padding-left: 15px;
+  }
+  #randNumber {
+    display: flex;
+    justify-content: center;
+    font-size: 200px;
+    text-shadow: 5px 5px 5px 5px #000000;
+  }
+  #suitsDown {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 100px;
+    color: red;
+    padding-right: 15px;
+  }
+  
